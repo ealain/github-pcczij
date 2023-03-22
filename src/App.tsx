@@ -6,7 +6,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Bienvenue sur le blind test de Thomas</h1>
+        <h1 className="App-title">Bienvenue sur le blind test d'Alexandre</h1>
       </header>
       <div className="App-images">
         <p>Il va falloir modifier le code pour faire un vrai blind test !</p>
